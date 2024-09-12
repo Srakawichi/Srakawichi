@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![githubIntroduction](https://github.com/user-attachments/assets/e323a5bc-eacd-4fc8-a648-815570f82f00)
+![githubIntroduction](https://github.com/user-attachments/assets/da11c73b-f5f0-45ac-bce4-befeebba8af7)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
