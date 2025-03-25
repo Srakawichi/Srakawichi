@@ -2,12 +2,6 @@
 
 ![codeIntroduction](https://github.com/user-attachments/assets/1d61a43a-57eb-4964-bb98-a79e2c0fe2bf)
 
-Languages
-=============
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <!--
 **Srakawichi/Srakawichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
