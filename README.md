@@ -1,6 +1,9 @@
 ## Hi there 👋
+  
+CS student at Berlin School of Economics and Law  
+Interested in AI, systems engineering and scalable backend architectures.
 
-![codeIntroduction](https://github.com/user-attachments/assets/1d61a43a-57eb-4964-bb98-a79e2c0fe2bf)
+
 
 <!--
 **Srakawichi/Srakawichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
